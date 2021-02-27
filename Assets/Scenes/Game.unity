@@ -391,6 +391,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ef8ac83e6e34dac4e9ce941602de7935, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  horario: 1
+  antiHorario: 0
   gameController: {fileID: 1709833958}
 --- !u!1 &184148993
 GameObject:
@@ -796,6 +798,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ef8ac83e6e34dac4e9ce941602de7935, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  horario: 1
+  antiHorario: 0
   gameController: {fileID: 1709833958}
 --- !u!1 &414335121
 GameObject:
@@ -884,6 +888,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ef8ac83e6e34dac4e9ce941602de7935, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  horario: 1
+  antiHorario: 0
   gameController: {fileID: 1709833958}
 --- !u!1 &420595729
 GameObject:
@@ -1427,6 +1433,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ef8ac83e6e34dac4e9ce941602de7935, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  horario: 1
+  antiHorario: 0
   gameController: {fileID: 1709833958}
 --- !u!1 &533798255
 GameObject:
@@ -1656,6 +1664,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ef8ac83e6e34dac4e9ce941602de7935, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  horario: 0
+  antiHorario: 1
   gameController: {fileID: 1709833958}
 --- !u!1 &590053835
 GameObject:
@@ -1919,6 +1929,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ef8ac83e6e34dac4e9ce941602de7935, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  horario: 0
+  antiHorario: 1
   gameController: {fileID: 1709833958}
 --- !u!1 &695360948
 GameObject:
@@ -2007,6 +2019,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ef8ac83e6e34dac4e9ce941602de7935, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  horario: 1
+  antiHorario: 0
   gameController: {fileID: 1709833958}
 --- !u!1 &753491810
 GameObject:
@@ -2236,6 +2250,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ef8ac83e6e34dac4e9ce941602de7935, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  horario: 0
+  antiHorario: 1
   gameController: {fileID: 1709833958}
 --- !u!1 &779256156
 GameObject:
@@ -2324,6 +2340,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ef8ac83e6e34dac4e9ce941602de7935, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  horario: 1
+  antiHorario: 0
   gameController: {fileID: 1709833958}
 --- !u!1 &813773027
 GameObject:
@@ -2653,6 +2671,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ef8ac83e6e34dac4e9ce941602de7935, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  horario: 0
+  antiHorario: 1
   gameController: {fileID: 1709833958}
 --- !u!1 &963194225
 GameObject:
@@ -2824,6 +2844,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ef8ac83e6e34dac4e9ce941602de7935, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  horario: 0
+  antiHorario: 1
   gameController: {fileID: 1709833958}
 --- !u!1 &977709196
 GameObject:
@@ -2912,6 +2934,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ef8ac83e6e34dac4e9ce941602de7935, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  horario: 1
+  antiHorario: 0
   gameController: {fileID: 1709833958}
 --- !u!1 &988053538
 GameObject:
@@ -2994,7 +3018,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 144, y: 144}
+  m_Size: {x: 112, y: 112}
   m_EdgeRadius: 0
 --- !u!114 &988053542
 MonoBehaviour:
@@ -3120,6 +3144,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ef8ac83e6e34dac4e9ce941602de7935, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  horario: 0
+  antiHorario: 1
   gameController: {fileID: 1709833958}
 --- !u!1 &1081214143
 GameObject:
@@ -3208,6 +3234,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ef8ac83e6e34dac4e9ce941602de7935, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  horario: 1
+  antiHorario: 0
   gameController: {fileID: 1709833958}
 --- !u!1 &1117844184
 GameObject:
@@ -3296,6 +3324,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ef8ac83e6e34dac4e9ce941602de7935, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  horario: 0
+  antiHorario: 1
   gameController: {fileID: 1709833958}
 --- !u!1 &1132783911
 GameObject:
@@ -3378,7 +3408,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 144, y: 144}
+  m_Size: {x: 112, y: 112}
   m_EdgeRadius: 0
 --- !u!114 &1132783915
 MonoBehaviour:
@@ -3522,7 +3552,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 144, y: 144}
+  m_Size: {x: 112, y: 112}
   m_EdgeRadius: 0
 --- !u!114 &1168012549
 MonoBehaviour:
@@ -3624,6 +3654,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ef8ac83e6e34dac4e9ce941602de7935, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  horario: 0
+  antiHorario: 1
   gameController: {fileID: 1709833958}
 --- !u!1 &1312676227
 GameObject:
@@ -3853,6 +3885,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ef8ac83e6e34dac4e9ce941602de7935, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  horario: 1
+  antiHorario: 0
   gameController: {fileID: 1709833958}
 --- !u!1 &1367211474
 GameObject:
@@ -4007,6 +4041,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ef8ac83e6e34dac4e9ce941602de7935, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  horario: 0
+  antiHorario: 1
   gameController: {fileID: 1709833958}
 --- !u!1 &1440808572
 GameObject:
@@ -4356,7 +4392,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 144, y: 144}
+  m_Size: {x: 112, y: 112}
   m_EdgeRadius: 0
 --- !u!114 &1597730061
 MonoBehaviour:
@@ -4566,6 +4602,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ef8ac83e6e34dac4e9ce941602de7935, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  horario: 1
+  antiHorario: 0
   gameController: {fileID: 1709833958}
 --- !u!1 &1700835517
 GameObject:
@@ -4654,6 +4692,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ef8ac83e6e34dac4e9ce941602de7935, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  horario: 1
+  antiHorario: 0
   gameController: {fileID: 1709833958}
 --- !u!1 &1704300383
 GameObject:
@@ -4742,6 +4782,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ef8ac83e6e34dac4e9ce941602de7935, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  horario: 1
+  antiHorario: 0
   gameController: {fileID: 1709833958}
 --- !u!1 &1709833957
 GameObject:
@@ -4955,6 +4997,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ef8ac83e6e34dac4e9ce941602de7935, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  horario: 1
+  antiHorario: 0
   gameController: {fileID: 1709833958}
 --- !u!1 &1868957824
 GameObject:
@@ -5137,6 +5181,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ef8ac83e6e34dac4e9ce941602de7935, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  horario: 1
+  antiHorario: 0
   gameController: {fileID: 1709833958}
 --- !u!1 &2101502514
 GameObject:
@@ -5225,6 +5271,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ef8ac83e6e34dac4e9ce941602de7935, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  horario: 0
+  antiHorario: 1
   gameController: {fileID: 1709833958}
 --- !u!1 &2110727725
 GameObject:
@@ -5307,7 +5355,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 144, y: 144}
+  m_Size: {x: 112, y: 112}
   m_EdgeRadius: 0
 --- !u!114 &2110727729
 MonoBehaviour:
@@ -5433,4 +5481,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ef8ac83e6e34dac4e9ce941602de7935, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  horario: 1
+  antiHorario: 0
   gameController: {fileID: 1709833958}
